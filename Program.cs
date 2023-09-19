@@ -6,5 +6,7 @@
 
         AdressBookMenu menu = new(adressBook);
         menu.Show();
+
+        Console.WriteLine("Kerstins ändring.");
     }
 }
